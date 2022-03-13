@@ -1,6 +1,6 @@
 # ocr_app
 
-A new Flutter project.
+OCR Scanner Flutter project.
 
 ## Getting Started
 
